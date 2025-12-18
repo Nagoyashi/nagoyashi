@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Robert ^.^
 
 ## 🎓 Academic Background
-* **CEMS Master in International Management** – Double Degree Program
+* **CEMS Master in International Management** – Double Degree Program at Wirtschaftsuniversität Wien & SGH Warsaw
 * International business education with focus on strategy and digital transformation
 * Technical foundations through entrepreneurship and self-directed learning
 
@@ -15,7 +15,7 @@
   * Led product development and customer acquisition & success
 
 ## 🧰 Tech Stack
-* **Languages**: Python, JavaScript, SQL
+* **Languages**: C, Python, JavaScript, SQL
 * **Frontend**: React, Tailwind CSS, Vite
 * **Backend**: Flask, SQLAlchemy, Marshmallow
 * **Database**: PostgreSQL, SQLite
@@ -28,23 +28,14 @@
   * Comprehensive net worth tracking, cash flow analysis, and financial projections
   * [View Repository](https://github.com/Nagoyashi/fintrackr_dev)
 
-## 🌱 Learning & Interests
-* Building practical financial tools and calculators
-* Web development with modern frameworks
-* API design and backend architecture
-* Data visualization and analytics
-
 ## 🗣️ Languages
-* **English** (Fluent)
-* **German** (Native)
-* **Russian** (Conversational)
-* **Hungarian** (Native)
-* **Spanish** (Conversational)
+* **English** (C2)
+* **German** (C2)
+* * **Hungarian** (C2)
+* **Russian** (B1)
+* **Spanish** (B1)
 
 ## 📫 Let's Connect
 * GitHub: [@Nagoyashi](https://github.com/Nagoyashi)
+* LinkedIn: [@Robert Kiss](https://www.linkedin.com/in/robertkiss1998/)
 * Location: Berlin, Germany
-
----
-
-💡 *Always building, always learning. Currently focused on creating tools that make personal finance accessible and actionable.*
