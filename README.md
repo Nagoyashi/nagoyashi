@@ -31,7 +31,7 @@
 ## 🗣️ Languages
 * **English** (C2)
 * **German** (C2)
-* * **Hungarian** (C2)
+* **Hungarian** (C2)
 * **Russian** (B1)
 * **Spanish** (B1)
 
