@@ -6,7 +6,7 @@
 * Technical foundations through entrepreneurship and self-directed learning
 
 ## 💼 Work Experience
-* **Strategic Customer Success Manager** @ GLS eCom Lab (Bettermile), Berlin (Current)
+* **Senior Strategic Customer Success Manager** @ GLS eCom Lab (Bettermile, part of GLS Group), Berlin (Current)
   * Managing strategic customer relationships for last-mile delivery solutions
   * Driving customer value realization and expansion strategies
 * **Co-Founder** @ Autory (B2B SaaS)
