@@ -1,6 +1,6 @@
 👋 Hi, I'm Robert
 
-My projects are live at
+Check out my deployed projects: 
 - [spreadsheetmillionaire.com](https://spreadsheetmillionaire.com)
 - [cutecumber.cc](https://cutecumber.cc)
 
