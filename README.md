@@ -5,6 +5,6 @@ Check out my deployed projects:
 - [cutecumber.cc](https://cutecumber.cc)
 
 Let's connect
-- 🌐 [kissrobert.com](https://kissrobert.com)
+- 🌐 [kissrobert.com](https://kissrobert.com) (In Development) 
 - 💼 [LinkedIn](https://www.linkedin.com/in/robertkiss1998/)
-- 📍 Berlin, Germany
+- 📍 Berlin, Germany // Vienna, Austria
